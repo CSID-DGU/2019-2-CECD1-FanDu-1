@@ -53,7 +53,7 @@ $ pip install -r requirements.txt
 <pre>
  - run.py : 녹음된 파일을 실행하는 모듈
  - run_RT.py : 마이크로 입력된 실시간 음성을 실행하는 모듈
- - noise_rd.py : 소음 제거 수행 모듈 // run, run_RT에서 사용</pre><br><br>
+ - noise_rd.py : 소음 제거 수행 모듈 // run, run_RT에서 사용</pre><br>
 
 ## 디렉터리 설명
 <pre>
@@ -61,13 +61,12 @@ $ pip install -r requirements.txt
 - output : run 모듈 실행 시, 소음 제거 수행 후 *.wav 파일 출력하는 폴더
 - signal : run 모듈 실행 후 구조요청이라 판단시*.wav 파일 출력하는 폴더
 - RT_output : run_RT 모듈 실행 시, 소음 제거 수행 후 *.wav 파일 출력하는 폴더
-- RT_signal : run_RT 모듈 실행 후 구조요청이라 판단시*.wav 파일 출력하는 폴더
-</pre><br><br>
+- RT_signal : run_RT 모듈 실행 후 구조요청이라 판단시*.wav 파일 출력하는 폴더</pre><br>
 
 ## 실행하기
 <pre>
-- 두 가지 실행 방식이 있습니다.
-1.  녹음된 파일로 실행,  2. 실시간으로 실행</pre><br>
+- 두 가지 실행 방식이 있습니다.<br>
+1.  녹음된 파일로 실행,  2. 실시간으로 실행</pre>
 <ol>
 <li> 녹음된 파일 실행 </li><br>
 <pre>
@@ -77,7 +76,7 @@ $ pip install -r requirements.txt
 <li> RT(realtime) 실행 </li><br>
 <pre>
     - $ python run_RT.py<br>
-    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해 wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br><br>
+    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해<br> wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br><br>
 </ol>
 
 ## 실행결과
