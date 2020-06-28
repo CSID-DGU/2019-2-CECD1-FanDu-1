@@ -47,14 +47,13 @@ $ pip install -r requirements.txt
 
 <pre>
 - python3 설치되어 있다고 가정
-- 환경에 따라 특정 패키지가 설치되어 있지 않을 경우 개별 설치 필요</pre><br><br>
+- 환경에 따라 특정 패키지가 설치되어 있지 않을 경우 개별 설치 필요</pre><br>
  
 ## <u> **source code 설명** </u>
 <pre>
  - run.py : 녹음된 파일을 실행하는 모듈
  - run_RT.py : 마이크로 입력된 실시간 음성을 실행하는 모듈
- - noise_rd.py : 소음 제거 수행 모듈 // run, run_RT에서 사용 <br><br>
-</pre>
+ - noise_rd.py : 소음 제거 수행 모듈 // run, run_RT에서 사용</pre><br>
 
 ## 디렉터리 설명
 <pre>
