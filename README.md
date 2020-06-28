@@ -76,7 +76,7 @@ $ pip install -r requirements.txt
 <li> RT(realtime) 실행 </li><br>
 <pre>
     - $ python run_RT.py<br>
-    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해<br> wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br><br>
+    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br>
 </ol>
 
 ## 실행결과
