@@ -27,7 +27,7 @@
 
 * 구동 환경 : 라즈베리파이 3B // Windows 플랫폼에서도 가능
 
-* 테스트 드론 타입 : Helsel Zealot-X Standard	<br><br><br>
+* 테스트 드론 타입 : Helsel Zealot-X Standard	<br><br>
 
 
 ## 설치하기
@@ -76,7 +76,7 @@ $ pip install -r requirements.txt
 <li> RT(realtime) 실행 </li><br>
 <pre>
     - $ python run_RT.py<br>
-    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br>
+    - 콘솔창에 "wait for speaking"이라고 뜨면 마이크를 통해<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wav 파일을 입력으로 받아 RT_output 폴더에 출력</pre><br>
 </ol>
 
 ## 실행결과
@@ -90,5 +90,6 @@ $ pip install -r requirements.txt
 
 ## 프로젝트 설명
 <br>
-- 소개 영상(4:24) : https://www.youtube.com/watch?v=XPzpoxqYBM8&feature=youtu.be <br><br>
-- 시연 영상(1:14) : https://www.youtube.com/watch?v=Jqven9-wE_A&feature=youtu.be <br>
+- 소개 영상(3:47) : https://www.youtube.com/watch?v=7fW_0DiFdU4&feature=youtu.be <br>
+- 시연 영상(1:20) : https://www.youtube.com/watch?v=jJ02XZmbc-k&feature=youtu.be <br>
+- 발표+시연(5:08) : https://www.youtube.com/watch?v=3FRujiFviLI&feature=youtu.be
