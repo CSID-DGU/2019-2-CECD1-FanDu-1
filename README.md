@@ -47,7 +47,7 @@ $ pip install -r requirements.txt
 
 <pre>
 - python3 설치되어 있다고 가정
-- 환경에 따라 특정 패키지가 설치되어 있지 않을 경우 개별 설치 필요</pre><br>
+- 환경에 따라 특정 패키지가 설치되어 있지 않을 경우 개별 설치 필요</pre>
  
 ## <u> **source code 설명** </u>
 <pre>
